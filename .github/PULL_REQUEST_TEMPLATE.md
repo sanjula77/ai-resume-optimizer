@@ -1,11 +1,14 @@
-## Description
-Please describe the changes you made.
+### Description
+Provide a brief summary of the changes in this PR. Explain why these changes are necessary.
 
-## Related Issue
-Link to the related issue (if applicable).
+### Related Issues
+Link any relevant issues (e.g., Fixes #123, Closes #456).
 
-## Checklist
-- [ ] My code follows the project's style guidelines.
-- [ ] I have performed a self-review of my code.
-- [ ] I have commented my code where necessary.
-- [ ] I have added tests that prove my fix is effective.
+### Changes Made
+- List the major changes in this PR.
+- Example: Added feature X, updated documentation, fixed bug Y.
+
+### Checklist
+- [ ] I have tested the changes.
+- [ ] I have updated documentation if necessary.
+- [ ] My code follows the project coding style.
